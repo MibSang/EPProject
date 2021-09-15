@@ -1,1 +1,1 @@
-# EPProject
+# EPProject -- Enterprise Lecture Programs
